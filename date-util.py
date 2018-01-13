@@ -5,3 +5,5 @@
 # a function that will return thge timespan
 
 # current month
+
+# a function that will return me the current day of the week
